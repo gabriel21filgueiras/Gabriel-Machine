@@ -1,5 +1,5 @@
 # Gabriel Machine
-abriel's Machine - Conversor de Bases Numéricas
+Gabriel's Machine - Conversor de Bases Numéricas
 Este projeto é uma ferramenta web simples desenvolvida para converter números decimais em outras bases numéricas comuns: Octal, Hexadecimal e Binário.
 
 Sobre o projeto
